@@ -12,7 +12,6 @@ In spite of ***Antvel*** seems to be a whole couple app, it is powered by its <a
 
 ***Antvel*** is in current development, receiving a ```whole rewrite``` from top to bottom toward a more stable platform where you might feel comfortable to walk along with.
 
-
 <a name="installation"></a>
 ## Installation
 
